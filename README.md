@@ -98,7 +98,7 @@ For this part, you'll need the following tools installed to actually retrieve th
 Without further ado:
 
 ```sh
-$ go get -u -v github.com/sbinet/dev-lr-2015-go/cmd/ji-hello
+$ go get -u -v github.com/sbinet/dev-lr-2015-go/cmd/dev-lr-hello
 ```
 
 `go get` downloaded (cloned, in `git` speak) the whole
